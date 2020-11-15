@@ -1,4 +1,5 @@
 # Learning Tkinter
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/amitdev101/learning-tkinter)
 
 ## Why use Tkinter?
 
