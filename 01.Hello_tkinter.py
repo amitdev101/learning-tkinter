@@ -20,4 +20,3 @@ w.pack()
 
 '''The window won't appear until we enter the Tkinter event loop'''
 root.mainloop()
-
